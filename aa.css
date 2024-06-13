@@ -1,0 +1,100 @@
+.container{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.container div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid #000000;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+/* Modern and clean */
+.primary1{
+    background-color: #0D3B66;
+}
+.secondary1{
+    background-color: #FAF0CA;
+}
+.accent1{
+    background-color: #F4D35E;
+}
+.background1{
+    background-color: #FFFFFF;
+}
+.text1{
+    background-color: #4A4A4A;
+}
+
+/* Elegant */
+.primary2{
+    background-color: #1C3A3E;
+}
+.secondary2{
+    background-color: #E5E5E5;
+}
+.accent2{
+    background-color: #A3D2CA;
+}
+.background2{
+    background-color: #FFFFFF;
+}
+.text2{
+    background-color: #000000;
+}
+
+/* Bold and Dynamic */
+.primary3{
+    background-color: #222831;
+}
+.secondary3{
+    background-color: #393E46;
+}
+.accent3{
+    background-color: #00AD85;
+}
+.background3{
+    background-color: #EEEEEE;
+}
+.text3{
+    background-color: #333333;
+}
+
+/* Professional */
+.primary4{
+    background-color: #003366;
+}
+.secondary4{
+    background-color: #CCCCCC;
+}
+.accent4{
+    background-color: #E94B3C;
+}
+.background4{
+    background-color: #FFFFFF;
+}
+.text4{
+    background-color: #333333;
+}
+
+/* Fresh and Vibrant */
+.primary5{
+    background-color: #1C3A3E;
+}
+.secondary5{
+    background-color: #E5E5E5;
+}
+.accent5{
+    background-color: #38B6FF;
+}
+.background5{
+    background-color: #FFFFFF;
+}
+.text5{
+    background-color: #333333;
+}
